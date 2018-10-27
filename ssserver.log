@@ -1,0 +1,17 @@
+2017-07-19 10:30:48 INFO     util.py:85 loading libcrypto from libcrypto.so.10
+2017-07-19 10:30:48 INFO     asyncdns.py:324 dns server: [('8.8.8.8', 53), ('74.82.42.42', 53), ('4.2.2.1', 53), ('8.8.4.4', 53)]
+/usr/shadowsocksr/shadowsocksr-manyuser/shadowsocks/shell.py:58: UserWarning: Module shadowsocks was already imported from /usr/shadowsocksr/shadowsocksr-manyuser/shadowsocks/__init__.pyc, but /usr/lib/python2.6/site-packages is being added to sys.path
+  import pkg_resources
+2017-07-19 10:30:48 INFO     shell.py:72 ShadowsocksR 2.8.2
+2017-07-19 10:30:48 INFO     db_transfer.py:236 current process RLIMIT_NOFILE resource: soft 512000 hard 512000
+2017-07-19 10:30:48 WARNING  db_transfer.py:627 no user in json file
+2017-07-19 10:31:13 INFO     util.py:85 loading libcrypto from libcrypto.so.10
+2017-07-19 10:31:13 INFO     asyncdns.py:324 dns server: [('8.8.8.8', 53), ('74.82.42.42', 53), ('4.2.2.1', 53), ('8.8.4.4', 53)]
+/usr/shadowsocksr/shadowsocksr-manyuser/shadowsocks/shell.py:58: UserWarning: Module shadowsocks was already imported from /usr/shadowsocksr/shadowsocksr-manyuser/shadowsocks/__init__.pyc, but /usr/lib/python2.6/site-packages is being added to sys.path
+  import pkg_resources
+2017-07-19 10:31:13 INFO     shell.py:72 ShadowsocksR 2.8.2
+2017-07-19 10:31:13 INFO     db_transfer.py:236 current process RLIMIT_NOFILE resource: soft 512000 hard 512000
+2017-07-19 10:31:13 WARNING  db_transfer.py:627 no user in json file
+2017-07-19 10:32:13 WARNING  db_transfer.py:627 no user in json file
+2017-07-19 10:33:13 WARNING  db_transfer.py:627 no user in json file
+2017-07-19 10:34:13 WARNING  db_transfer.py:627 no user in json file
