@@ -40,6 +40,7 @@ Check all the options via `-h`.
 You can also use a configuration file instead (recommend), move to "~/shadowsocksr" and edit the file "user-config.json", then move to "~/shadowsocksr/shadowsocks" again, just run:
 
     python server.py
+    python server.py -c user-config.json -d start
 
 To run in the background:
 
